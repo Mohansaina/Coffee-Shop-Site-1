@@ -1,0 +1,26 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "1fBynwI4CdLUrz12ek2oN"
+uri = "file://artifacts/coffee-shop/src/assets/hero.png"
+type = "image"
+title = "cozy coffee shop interior"
+
+[[generated]]
+id = "aztJftFIar62AlN752NAo"
+uri = "file://artifacts/coffee-shop/src/assets/espresso.png"
+type = "image"
+title = "perfect espresso cup"
+
+[[generated]]
+id = "VF3aGBGen4td046OunP-d"
+uri = "file://artifacts/coffee-shop/src/assets/barista.png"
+type = "image"
+title = "barista pouring latte art"
+
+[[generated]]
+id = "Uc9gFrE8RzoZ8Rr24dokt"
+uri = "file://artifacts/coffee-shop/src/assets/corner.png"
+type = "image"
+title = "cozy reading corner coffee"
